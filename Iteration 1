@@ -1,0 +1,30 @@
+length = input("What is the length?")  # get length of deck from user
+width = input("What is the width?")  # get width of deck from user
+
+length_of_sixteen = 16
+length_of_twelve = 12
+length_of_ten = 10  # all dimensions are in feet
+length_of_eight = 8
+
+if int(length) <= length_of_eight:
+    print("Use 8 ft board")
+elif int(length) <= length_of_ten:
+    print("Use 10 ft board")
+elif int(length) <= length_of_twelve:
+    print("Use 12 ft board")
+elif int(length) <= length_of_sixteen:
+    print("Use 16 ft board")
+#-------------------------------------------------------------------------------------
+
+width_of_one = 5.5    #width of one deckboard no matter the length
+x = float(width) * 12.0     #convert width, in feet, to inches
+
+print("You will need:", round(x / width_of_one) + 1, "boards")
+
+
+sixteen_boards = float(length) % 16.0
+twelve_boards = float(length) % 12.0
+ten_boards = float(length) % 10.0
+eight_boards = float (length) % 8.0
+
+no_remainder = 0
