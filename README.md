@@ -18,5 +18,6 @@ and the width is in inches, I must convert the inches to feet or vice-versa.
 
 I have not got to work on this as much as I would have liked to the past few days because I have had family in town, so I have 
 decided to post what I have now because I now have a lot more free time. The problem I am running into now is having the full 
-measurements of the deck broken down each board into segments to output the specific number of deck boards needed. I am 
-currently still learning programming from GT's David Joyner online and will hopefully be able to iron this out soon.
+measurements of the deck broken down (by max board length) so that each board will be broken into segments to output the 
+specific number of deck boards needed. I am currently still learning programming from GT's David Joyner online and will
+hopefully be able to iron this out soon.
