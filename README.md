@@ -13,3 +13,10 @@ to which will give actual lengths, and the # of boards to provide the length and
 
 I am imagining my first issue being integrating the width and length of the deck together. Being that the length is in feet,
 and the width is in inches, I must convert the inches to feet or vice-versa. 
+
+1/8
+
+I have not got to work on this as much as I would have liked to the past few days because I have had family in town, so I have 
+decided to post what I have now because I now have a lot more free time. The problem I am running into now is having the full 
+measurements of the deck broken down each board into segments to output the specific number of deck boards needed. I am 
+currently still learning programming from GT's David Joyner online and will hopefully be able to iron this out soon.
