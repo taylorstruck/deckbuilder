@@ -1,7 +1,7 @@
 # deckbuilder
 
 I will be dating each entry almost like a journal of sorts to keep track of my own progress and for anyone else following 
-along that also may be a beginner learning to encourage the action of trying things. These attempts at things may fail at first but I have found that a lot of times we learn more from our mistakes than we do our successes.
+along that also may be a beginner to encourage the action of trying things. These attempts at things may fail at first but I have found that a lot of times we learn more from our mistakes than we do our successes.
 
 12/30 
 
